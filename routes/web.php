@@ -31,9 +31,29 @@ Route::post('/userMessage',function (Request $request)
        //      'subject' => 'required',
        //      'message' => 'required',
        //  ]);
-	User::create($request->all());
+	$user = User::create($request->all());
+  //here will send new mail to dr
+  $data = array(
+      'firstname'=>$user->firstname , 
+      'lastname'=> $user->lastname ,
+       'email'=>$user->email ,
+       'sub'=>$user->subject ,
+       'mssg'=>$user->message
+     );
+  Mail::send('mail', $data, function($message) {
+     $message->to('Dr.mohamadsaeed@gmail.com', 'Dr.Mohamed')->subject('New User Want to Contact');
+  $message->from('xyz@gmail.com','Felfel');
+  });
+  //
 	session()->flash('message','Form Submitted Successfully');
 	return redirect('/');
+});
+
+Route::get('sendbasicemail','MailController@basic_email');
+Route::get('sendhtmlemail','MailController@html_emaill');
+Route::get('/s' , function ()
+{
+  return view('test');
 });
 
 
