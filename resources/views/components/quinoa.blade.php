@@ -40,7 +40,7 @@
           			<a class="cm-overlay" href="images/quinoa/111.jpg">
 						<img src="images/quinoa/111.jpg" alt=" " class="img-responsive" />
 						<div class="w3agile-text w3agile-text-small">
-							<h5>Snap shot</h5>
+							<!-- <h5>Snap shot</h5> -->
 						</div>
 					</a>
 			   </div>
@@ -48,7 +48,7 @@
 					<a class="cm-overlay" href="images/quinoa/222.jpg">
 						<img src="images/quinoa/222.jpg" alt=" " class="img-responsive" />
 						<div class="w3agile-text w3agile-text-smal1">
-							<h5>Snap shot</h5>
+							<!-- <h5>Snap shot</h5> -->
 						</div>
 					</a>
 				</div>

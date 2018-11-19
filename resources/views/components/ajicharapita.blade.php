@@ -16,7 +16,7 @@ The pod type `Charapita' or Aji Charapa' is found in the Peruvian rainforest, cl
 				<a class="cm-overlay" href="images/ajicharapita/IMG_4031.jpg">
 					<img src="images/ajicharapita/IMG_4031.jpg" alt=" " class="img-responsive" />
 					 <div class="w3agile-text w3agile-text-smal1">
-						<h5>Snap shot</h5>
+						<!-- <h5>Snap shot</h5> -->
 					</div>
 				</a>
 			</div>
@@ -46,7 +46,7 @@ The pod type `Charapita' or Aji Charapa' is found in the Peruvian rainforest, cl
           			<a class="cm-overlay" href="images/ajicharapita/IMG_3974.jpg">
 						<img src="images/ajicharapita/IMG_3974.jpg" alt=" " class="img-responsive" />
 						<div class="w3agile-text w3agile-text-small">
-							<h5>Snap shot</h5>
+							<!-- <h5>Snap shot</h5> -->
 						</div>
 					</a>
 			   </div>
@@ -54,7 +54,7 @@ The pod type `Charapita' or Aji Charapa' is found in the Peruvian rainforest, cl
 					<a class="cm-overlay" href="images/ajicharapita/IMG_3892.jpg">
 						<img src="images/ajicharapita/IMG_3892.jpg" alt=" " class="img-responsive" />
 						<div class="w3agile-text w3agile-text-smal1">
-							<h5>Snap shot</h5>
+							<!-- <h5>Snap shot</h5> -->
 						</div>
 					</a>
 				</div>

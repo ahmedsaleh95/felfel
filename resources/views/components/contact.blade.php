@@ -15,11 +15,14 @@
 		<div class="col-md-5 col-sm-5 col-xs-5 contact-left-w3ls">
 			<div class="mail contact-grid-agileinfo">
 				<div class="col-md-1 col-sm-2 col-xs-2 contact-icon-wthree">
-					<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+					<!-- <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> -->
+					<span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
 				</div>
 				<div class="col-md-11 col-sm-9 col-xs-9 contact-text-agileinfo">
-					<h4>Mail us</h4>
-					<p><a href="mailto:info@example.com">info@example.com</a></p>
+					<!-- <h4>Mail us</h4> -->
+					<h4>Contact us</h4>
+					<!-- <p><a href="mailto:info@example.com">info@example.com</a></p> -->
+					<p>We glad to Contact us in any time</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
@@ -29,7 +32,7 @@
 				</div>
 				<div class="col-md-11 col-sm-9 col-xs-9 contact-text-agileinfo">
 					<h4>Call us</h4>
-					<p>+18044261149</p>
+					<p>+201100003322</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
@@ -39,7 +42,7 @@
 				</div>
 				<div class="col-md-11 col-sm-9  col-xs-9 contact-text-agileinfo">
 					<h4>Visit us</h4>
-					<p>Stir vally,New york,U.S.A</p>
+					<p>Loran ,Alexandria,EGYPT</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>

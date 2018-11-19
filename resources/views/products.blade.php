@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>aji charapita</title>
+<title>The Egyptian Hub of Latin Crops</title>
 <link rel="shortcut icon" type="image/x-icon" href="images/home/IMG_4107.jpg">
 <!-- custom-theme -->
 <meta name="viewport" content="width=device-width, initial-scale=1">

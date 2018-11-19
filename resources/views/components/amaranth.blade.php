@@ -40,7 +40,7 @@
           			<a class="cm-overlay" href="images/amaranth/IMG_4015.jpg">
 						<img src="images/amaranth/IMG_4015.jpg" alt=" " class="img-responsive" />
 						<div class="w3agile-text w3agile-text-small">
-							<h5>Snap shot</h5>
+							<!-- <h5>Snap shot</h5> -->
 						</div>
 					</a>
 			   </div>
@@ -48,7 +48,7 @@
 					<a class="cm-overlay" href="images/amaranth/IMG_4033.jpg">
 						<img src="images/amaranth/IMG_4033.jpg" alt=" " class="img-responsive" />
 						<div class="w3agile-text w3agile-text-smal1">
-							<h5>Snap shot</h5>
+							<!-- <h5>Snap shot</h5> -->
 						</div>
 					</a>
 				</div>
