@@ -22,11 +22,11 @@
 					<!-- <h4>Mail us</h4> -->
 					<h4>Contact us</h4>
 					<!-- <p><a href="mailto:info@example.com">info@example.com</a></p> -->
-					<p>We glad to Contact us in any time</p>
+					<p>Feel free Call us</p>
 				</div>
 				<div class="clearfix"></div>
 			</div>
-			<div class="call contact-grid-agileinfo">
+<!-- 			<div class="call contact-grid-agileinfo">
 				<div class="col-md-1 col-sm-2 col-xs-2 contact-icon-wthree">
 					<span class="glyphicon glyphicon-phone" aria-hidden="true"></span>
 				</div>
@@ -35,7 +35,7 @@
 					<p>+201100003322</p>
 				</div>
 				<div class="clearfix"></div>
-			</div>
+			</div> -->
 			<div class="visit contact-grid-agileinfo">
 				<div class="col-md-1 col-sm-2 col-xs-2 contact-icon-wthree">
 					<span class="glyphicon glyphicon-home" aria-hidden="true"></span>
